@@ -14,8 +14,8 @@ Feel free to [submit an issue](https://github.com/carlenlund/helmet/issues/new) 
 
 ![](images/helmet-3.png)
 
-![](images/helmet-4.png)
-
 ![](images/helmet-5.png)
+
+![](images/helmet-4.png)
 
 ![](images/helmet-6.png)
